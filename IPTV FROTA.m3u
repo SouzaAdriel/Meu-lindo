@@ -1,46 +1,46 @@
 #EXTM3U 
 
-#EXTINF: -1 tvg-id="01" tvg-name="CANAL ABERTO" tvg-chno="01" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185984335.jpeg" group-title="Abertos", GLOBO
+#EXTINF: -1 tvg-id="01" tvg-name="GLOBO" tvg-chno="01" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185984335.jpeg" group-title="Abertos", GLOBO
 
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16729
 
-#EXTINF: -1 tvg-id="02" tvg-name="CANAL ABERTO" tvg-chno="02" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185985718.jpeg" group-title="Abertos", RECORD-TV
+#EXTINF: -1 tvg-id="02" tvg-name="RECORD TV" tvg-chno="02" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185985718.jpeg" group-title="Abertos", RECORD-TV
 
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31555
 
-#EXTINF: -1 tvg-id="04" tvg-name="CANAL ABERTO" tvg-chno="04" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185985719.jpeg" group-title="Abertos", BAND
+#EXTINF: -1 tvg-id="04" tvg-name="BAND" tvg-chno="04" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185985719.jpeg" group-title="Abertos", BAND
 
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="06" tvg-name="CANAL ABERTO" tvg-chno="06" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185986423.jpeg" group-title="Abertos", SBT
+#EXTINF: -1 tvg-id="06" tvg-name="SBT" tvg-chno="06" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185986423.jpeg" group-title="Abertos", SBT
 
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
-#EXTINF: -1 tvg-id="1" tvg-name="PREMIERE" tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985460.png" group-title="PREMIERE", PREMIERE CLUBES FHD
+#EXTINF: -1 tvg-id="1" tvg-name="PREMIERE CLUBES" tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985460.png" group-title="PREMIERE", PREMIERE CLUBES FHD
 
 http://15.235.15.230:14020/
 
-#EXTINF: -1 tvg-id="2" tvg-name="PREMIERE" tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985665.jpeg" group-title="PREMIERE", PREMIERE 2
+#EXTINF: -1 tvg-id="2" tvg-name="PREMIERE 2" tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985665.jpeg" group-title="PREMIERE", PREMIERE 2
 
 https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="3" tvg-name="PREMIERE" tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985666.jpeg" group-title="PREMIERE", PREMIERE 3
+#EXTINF: -1 tvg-id="3" tvg-name="PREMIERE 3" tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985666.jpeg" group-title="PREMIERE", PREMIERE 3
 
 https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="4" tvg-name="PREMIERE" tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985668.png" group-title="PREMIERE", PREMIERE 4
+#EXTINF: -1 tvg-id="4" tvg-name="PREMIERE 4" tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985668.png" group-title="PREMIERE", PREMIERE 4
 
 https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="5" tvg-name="PREMIERE" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985689.png" group-title="PREMIERE", PREMIERE 5
+#EXTINF: -1 tvg-id="5" tvg-name="PREMIERE 5" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985689.png" group-title="PREMIERE", PREMIERE 5
 
 https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="6" tvg-name="PREMIERE" tvg-chno="6" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985690.jpeg" group-title="PREMIERE", PREMIERE 6
+#EXTINF: -1 tvg-id="6" tvg-name="PREMIERE 6" tvg-chno="6" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985690.jpeg" group-title="PREMIERE", PREMIERE 6
 
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
 
-#EXTINF: -1 tvg-id="7" tvg-name="PREMIERE" tvg-chno="7" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985692.jpeg" group-title="PREMIERE", PREMIERE 7
+#EXTINF: -1 tvg-id="7" tvg-name="PREMIERE 7" tvg-chno="7" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985692.jpeg" group-title="PREMIERE", PREMIERE 7
 
 https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
 
